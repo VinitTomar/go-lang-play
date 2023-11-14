@@ -5,8 +5,11 @@ func main()  {
 		printSomething()
 		hello()
 		exportedNamePrint()
+		showAdd()
+		basicTypes()
+		typeConversion()
 	}
 
-	showAdd()
+	constants();
 
 }
