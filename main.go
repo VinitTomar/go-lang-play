@@ -8,8 +8,11 @@ func main()  {
 		showAdd()
 		basicTypes()
 		typeConversion()
+		constants();
+		forLoop();
+		ifElseStatement();
+		switchStatement();
 	}
 
-	constants();
-
+	deferMe();
 }
