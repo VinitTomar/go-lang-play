@@ -22,8 +22,15 @@ func main()  {
 		maps();
 		functionValues();
 		methods();
+		interfaces();
+		stringer();
+		errors();
+		errorsSqrt();
+		readers();
+		readerExr1();
 	}
 
-	interfaces();
+
+	rot13ReaderExample();
 
 }
