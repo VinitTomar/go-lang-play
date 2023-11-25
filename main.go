@@ -16,9 +16,12 @@ func main()  {
 		pointers();
 		structs();
 		arrays();
+		slices();
+		rangeExample();
+		showMyPic();
+		maps();
 	}
 
-	slices();
-
+	functionValues();
 
 }
