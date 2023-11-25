@@ -20,8 +20,10 @@ func main()  {
 		rangeExample();
 		showMyPic();
 		maps();
+		functionValues();
+		methods();
 	}
 
-	functionValues();
+	interfaces();
 
 }
