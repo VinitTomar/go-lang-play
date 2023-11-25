@@ -12,7 +12,13 @@ func main()  {
 		forLoop();
 		ifElseStatement();
 		switchStatement();
+		deferMe();
+		pointers();
+		structs();
+		arrays();
 	}
 
-	deferMe();
+	slices();
+
+
 }
