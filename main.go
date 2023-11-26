@@ -28,9 +28,9 @@ func main()  {
 		errorsSqrt();
 		readers();
 		readerExr1();
+		rot13ReaderExample();
 	}
 
-
-	rot13ReaderExample();
+	generics();
 
 }
