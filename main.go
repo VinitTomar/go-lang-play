@@ -33,8 +33,11 @@ func main()  {
 		routines();
 		channels();
 		selects();
+		binaryTreeEql();
+		syncMutex();
 	}
 
-	binaryTreeEql();
+	webCrawler();
+
 
 }
