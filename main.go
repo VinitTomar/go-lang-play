@@ -29,8 +29,12 @@ func main()  {
 		readers();
 		readerExr1();
 		rot13ReaderExample();
+		generics();
+		routines();
+		channels();
+		selects();
 	}
 
-	generics();
+	binaryTreeEql();
 
 }
